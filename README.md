@@ -1,4 +1,4 @@
-## Bem-vindos ao meu Github :open_hands:
+## Bem-vindos ao meu Github :raised_hands:
 
 ### Me chamo __Guilherme Klein Klug__
 
