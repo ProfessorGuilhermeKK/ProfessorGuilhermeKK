@@ -1,28 +1,54 @@
-## Bem-vindos ao meu Github :raised_hands:
+## Olá, eu sou o Guilherme Klein Klug! 👋
 
-### Me chamo __Guilherme Klein Klug__
-:mailbox: [linkedin](https://www.linkedin.com/in/guilherme-klein-klug-42812a151/)
+### Engenheiro de Machine Learning (MLOps) | Desenvolvedor Python | Full-Stack
 
-# Em busca de oportunidade na área de Tecnologia
-### Cursando ultimo semestre de Análise e Desenvolvimento de Sistemas :hourglass_flowing_sand:
-- Realizando cursos Pro Dio.me
-- Graduado em:
-   1. Educação Física Licenciatura :mortar_board:
-   2. Edcucação Física Bacharel :mortar_board:
-- Pós Graduado em *Gestão do Esporte* :mortar_board:
-## Sempre em busca de aprimoramento pessoal e profissional.
-## Pontual, Organizado, Responsável
+Atualmente, trabalho como **Desenvolvedor de Sistemas na AgroBI**, focado em automação de processos ETL com Python e construção de APIs RESTful. Estou expandindo minha fronteira tecnológica através da **Pós-Graduação em Machine Learning Engineering na FIAP**, unindo o desenvolvimento de software robusto com o poder da Inteligência Artificial.
 
-# Tecnologias
-<p align="center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" width="100px">
-</p>        
-          
-          
-          
-          
+---
+
+### 🚀 O que eu faço
+* **Machine Learning & MLOps:** Construção, deployment e monitoramento de modelos escaláveis (Scikit-learn, Pandas, Deep Learning).
+* **Engenharia de Dados:** Automação de fluxos ETL com Python e integração de sistemas via APIs Node.js.
+* **Full-Stack Development:** Experiência com o ecossistema .NET (Back-end) e Angular (Front-end).
+* **Metodologias Ágeis:** Desenvolvimento orientado a resultados utilizando Scrum, Kanban e boas práticas de CI/CD.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Data Science & ML**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Full-Stack & Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Banco de Dados & Ferramentas**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎓 Formação Acadêmica
+* **Pós-Graduação em Machine Learning Engineering** – FIAP (Em andamento)
+* **Análise e Desenvolvimento de Sistemas** – UNINTER
+* **Carreira de Análise de Dados** – Alura (Em conclusão)
+* **Educação Física (Licenciatura/Bacharel/Pós em Gestão)** – Base acadêmica anterior.
+
+---
+
+### 📫 Vamos nos conectar?
+* [LinkedIn](https://www.linkedin.com/in/guilherme-klein-klug-42812a151/)
+* [Meu Portfólio de Projetos](#) ---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
+
+> "Transformando dados em decisões e código em soluções inteligentes."
