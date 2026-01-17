@@ -40,15 +40,3 @@ Atualmente, trabalho como **Desenvolvedor de Sistemas na AgroBI**, focado em aut
 * **Análise e Desenvolvimento de Sistemas** – UNINTER
 * **Carreira de Análise de Dados** – Alura (Em conclusão)
 * **Educação Física (Licenciatura/Bacharel/Pós em Gestão)** – Base acadêmica anterior.
-
----
-
-### 📫 Vamos nos conectar?
-* [LinkedIn](https://www.linkedin.com/in/guilherme-klein-klug-42812a151/)
-* [Meu Portfólio de Projetos](#) ---
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
-
-> "Transformando dados em decisões e código em soluções inteligentes."
